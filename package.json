@@ -1,0 +1,23 @@
+{
+  "name": "hongmiao1227",
+  "version": "1.0.0",
+  "description": "",
+  "main": "drag.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongmiao6/hongmiao1227.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hongmiao6/hongmiao1227/issues"
+  },
+  "homepage": "https://github.com/hongmiao6/hongmiao1227#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
